@@ -36,7 +36,7 @@ This project demonstrates basic HTML skills by creating a multi-page recipe webs
 
 - [Lasagna](odin-recipes/recipes/lasagna.html)
 - [Margherita Pizza](odin-recipes/recipes/pizza.html)
-
+- 
 ---
 
 ## 💡 Skills Practiced
