@@ -32,13 +32,6 @@ This project demonstrates basic HTML skills by creating a multi-page recipe webs
 
 ---
 
-## 🧾 Recipes
-
-- [Lasagna](odin-recipes/recipes/lasagna.html)
-- [Margherita Pizza](odin-recipes/recipes/pizza.html)
-- 
----
-
 ## 💡 Skills Practiced
 
 - HTML boilerplate and semantic tags
@@ -48,16 +41,3 @@ This project demonstrates basic HTML skills by creating a multi-page recipe webs
 
 ---
 
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
-3. Click on a recipe to view its details.
-
----
-
-## 📌 Future Improvements
-
-- Add more recipes
-- Apply CSS styling
-- Include nutritional info and prep time
